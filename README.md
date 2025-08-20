@@ -1,87 +1,111 @@
+```
+   ╔════════════════════════════════════╗
+   ║        Abdulrahman Saad            ║
+   ║          a.k.a. Mnmlst             ║
+   ║  Frontend Developer | Minimalist   ║
+   ╚════════════════════════════════════╝
+```
+
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN0aE1jMMEqG7p6tC/giphy.gif" width="250" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/j3vLh7Z3vG1yM/giphy.gif" width="200" alt="Minimalist Coding">
 </p>
 
-<h1 align="center">🌟 Abdulrahman Saad | Mnmlst 🌟</h1>
-<p align="center">
-  <i>Frontend Developer Crafting Seamless & Modern Web Experiences</i>
-</p>
+<h2 align="center">🪶 Crafting Web Experiences with Elegance & Precision</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdulrahman-saad-9bbb17340"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/_abdulr_hman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:abdulrahman.saad2303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/AbdulrahmanSE2003"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/abdulrahman-saad-9bbb17340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_abdulr_hman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"></a>
+  <a href="mailto:abdulrahman.saad2303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"></a>
+  <a href="https://github.com/AbdulrahmanSE2003"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub"></a>
 </p>
 
----
+```
+═══════ ✦ Who Am I? ✦ ═══════
+```
 
-## 🧑‍💻 About Me
-I'm **Abdulrahman Saad** (a.k.a. *Mnmlst*), a passionate **Frontend Developer** who loves turning ideas into pixel-perfect, user-friendly web applications. With a focus on clean code and minimalistic design, I create experiences that are both functional and visually stunning.
+I'm **Abdulrahman Saad** (Mnmlst), a **Frontend Developer** obsessed with creating **clean**, **intuitive**, and **modern** web apps. My philosophy? Less is more—code should be elegant, efficient, and impactful.
 
-- 🔥 **Passion**: Building responsive, performant, and accessible web apps.
-- 🌱 **Currently Mastering**: **React.js**, **Nuxt.js**, and the **MERN stack**.
-- 💡 **Fun Fact**: I believe code is art—clean, simple, and impactful.
-- 📬 **Get in Touch**: [abdulrahman.saad2303@gmail.com](mailto:abdulrahman.saad2303@gmail.com)
+- 🧠 **Mission**: Build web experiences that feel like art.
+- 🚀 **Currently Exploring**: React.js, Nuxt.js, and the MERN stack.
+- 🎯 **Fun Fact**: My code is as minimalist as my nickname!
+- 📩 **Connect**: [abdulrahman.saad2303@gmail.com](mailto:abdulrahman.saad2303@gmail.com)
 
-> *"Simplicity is the soul of efficiency."* – Austin Freeman
+> *"Code is poetry when it's clean and purposeful."* – Mnmlst
 
----
-
-## 🛠️ Tech Stack
-My toolkit for building awesome projects:
+```
+═══════ ✦ My Toolkit ✦ ═══════
+```
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier">
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=007ACC" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white&labelColor=6DA55F" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white&labelColor=8511FA" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black&labelColor=F7B93E" alt="Prettier">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white&labelColor=F05033" alt="Git">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python">
 </p>
 
----
+```
+═══════ ✦ Skill Levels ✦ ═══════
+```
 
-## 🌟 Featured Projects
-Check out some of my standout work:
+| Skill       | Proficiency           |
+|-------------|-----------------------|
+| React.js    | ██████████ 90%        |
+| TypeScript  | ███████ 70%           |
+| TailwindCSS | ████████ 80%          |
+| MongoDB     | ██████ 60%            |
+| Node.js     | ██████ 60%            |
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Project Name 1** | A responsive e-commerce platform with a sleek UI. | React, TailwindCSS, Node.js | [🔗 GitHub](#) [🌐 Demo](#) |
-| **Project Name 2** | A real-time task management app with MERN stack. | MongoDB, Express, React, Node.js | [🔗 GitHub](#) [🌐 Demo](#) |
-| **Project Name 3** | A minimalist portfolio website showcasing my work. | HTML, CSS, JavaScript | [🔗 GitHub](#) [🌐 Demo](#) |
+```
+═══════ ✦ Featured Projects ✦ ═══════
+```
 
-👉 *Explore more on my [GitHub Repositories](https://github.com/AbdulrahmanSE2003?tab=repositories)!*
+<div align="center">
 
----
+| 🖥️ Project | 📝 Description | 🛠️ Tech | 🔗 Links |
+|------------|----------------|---------|----------|
+| **E-Commerce Hub** | A sleek, responsive online store with dynamic features. | React, TailwindCSS, Node.js | [GitHub](#) \| [Demo](#) |
+| **TaskMaster** | A real-time task management app with MERN stack. | MongoDB, Express, React, Node.js | [GitHub](#) \| [Demo](#) |
+| **Mnmlst Portfolio** | My personal portfolio showcasing minimalist design. | HTML, CSS, JavaScript | [GitHub](#) \| [Demo](#) |
 
-## 📈 GitHub Stats
+</div>
+
+👉 *Discover more on my [GitHub](https://github.com/AbdulrahmanSE2003?tab=repositories)!*
+
+```
+═══════ ✦ My Stats ✦ ═══════
+```
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSE2003&theme=gruvbox&hide_border=true&show_icons=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&theme=gruvbox&hide_border=true&layout=compact" alt="Top Languages" width="300">
+  <a href="https://github.com/AbdulrahmanSE2003"><img src="https://img.shields.io/github/followers/AbdulrahmanSE2003?style=flat-square&label=Followers&color=1abc9c" alt="Followers"></a>
+  <a href="https://github.com/AbdulrahmanSE2003"><img src="https://img.shields.io/github/stars/AbdulrahmanSE2003?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Stars&color=f1c40f" alt="Stars"></a>
+  <a href="https://github.com/AbdulrahmanSE2003"><img src="https://img.shields.io/github/commit-activity/m/AbdulrahmanSE2003?style=flat-square&label=Commits&color=9b59b6" alt="Commits"></a>
 </p>
 
-## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulrahmanSE2003&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSE2003&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" width="300">
 </p>
 
----
+```
+═══════ ✦ Achievements ✦ ═══════
+```
 
-## 🤝 Let’s Collaborate!
-I’m always excited to work on innovative projects or contribute to open-source. Got an idea? Let’s make it happen!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulrahmanSE2003&theme=chalk&no-frame=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
+```
+═══════ ✦ Let’s Create Together ✦ ═══════
+```
+
+Got a project idea or need a frontend wizard? I’m your guy! Let’s build something extraordinary.
 
 - 📧 **Email**: [abdulrahman.saad2303@gmail.com](mailto:abdulrahman.saad2303@gmail.com)
 - 🔗 **LinkedIn**: [Abdulrahman Saad](https://linkedin.com/in/abdulrahman-saad-9bbb17340)
@@ -89,13 +113,15 @@ I’m always excited to work on innovative projects or contribute to open-source
 - 🌐 **Portfolio**: [Coming Soon!](#)
 
 <p align="center">
-  <i>“Good code is its own best documentation.” – Steve McConnell</i>
+  <i>“Build with purpose, design with passion.” – Mnmlst</i>
 </p>
 
----
+```
+═══════ ✦ Code in Motion ✦ ═══════
+```
 
 <p align="center">
   <img src="https://github.com/AbdulrahmanSE2003/AbdulrahmanSE2003/blob/output/github-snake-dark.svg" alt="Snake Animation">
 </p>
 
-<!-- Crafted with 💻 and ☕ by Abdulrahman -->
+<!-- Crafted with minimalism and 🔥 by Abdulrahman -->
